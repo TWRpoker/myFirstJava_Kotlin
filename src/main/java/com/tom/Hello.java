@@ -1,7 +1,5 @@
 package com.tom;
 
-import java.io.Console;
-
 public class Hello {
     public static void main(String[] args) {
 //        System.out.println("ddddd");
@@ -11,6 +9,11 @@ public class Hello {
         Person p = new Person();
         p.Say();
 
+
+        int a = 1;
+        //Interger age2 = 12;
+
+//        age2.doubleValue();
 
     }
 }

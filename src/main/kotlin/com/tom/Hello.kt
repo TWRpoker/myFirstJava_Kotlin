@@ -1,16 +1,14 @@
 package com.tom
 
 fun main() {
-//    println("hi 123")
+    println("hi 123")
     var human = Human()
     human.Hello()
 
-    val human2 = Human()
-    human2.Hello()
-//    println(human)
-
-//    Person().Say()
-
+    val age : Int
+    age = 14
+    //age = 122
+    println(age)
 }
 
 class  Human{
